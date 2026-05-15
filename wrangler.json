@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "prevlife-account-validation-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "71568cf3-19cc-4cdc-a171-9ef474c0014e",
+			"database_name": "prevlife_us_accounts"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
